@@ -11,6 +11,13 @@
     opacity: 1;
 }
 
+.line-break-small-grey {
+    border: 2px solid grey;
+    width: 25%;
+    margin: 1rem auto;
+    opacity: 1;
+}
+
 body {
     font-family: sans-serif;
     font-size: 14px;
